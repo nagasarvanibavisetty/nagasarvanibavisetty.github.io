@@ -64,7 +64,6 @@
   --eerie-black-1: hsl(240, 2%, 13%);
   --eerie-black-2: hsl(240, 2%, 12%);
   --smoky-black: hsl(0, 0%, 7%);
-  --white-1: hsl(0, 0%, 100%);
   --white-2: hsl(0, 0%, 98%);
   --teal-blue: hsl(180, 100%, 55%);
   --vegas-gold: hsl(45, 54%, 58%);
@@ -348,7 +347,7 @@ main {
 }
 
 .info-content .title {
-  color: var(--white-1);
+  color: var(--teal-blue);
   background: var(--onyx);
   font-size: var(--fs-8);
   font-weight: var(--fw-300);
