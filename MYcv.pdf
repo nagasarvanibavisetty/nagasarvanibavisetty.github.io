@@ -1,0 +1,106 @@
+html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Naga Sarvani Bavisetty's CV</title>
+</head>
+<body>
+
+<header>
+<h1>Naga Sarvani Bavisetty</h1>
+<p>Email: bnsarvani@gmail.com | <a href="https://www.linkedin.com/in/sarvanibavisetty>LinkedIn"</a> | Phone: +353877478652</p>
+</header>
+
+<section>
+<h2>Hire her</h2>
+</section>
+
+<section>
+<h2>Summary</h2>
+<p>Experienced ETL Data engineer with 3 years of experience in Information Technology. Seeking a data analyst or business analyst position to leverage expertise in Development, Validation, data migration for driving impactful insights and contributing to organizational growth. Team player who enjoys brainstorming with a sip of espresso.</p>
+</section>
+
+<section>
+<h2>Key Skills</h2>
+<ul>
+<li>Tools: SCM Tools – Informatica, Reltio, Change Management.</li>
+<li>Data Visualization: Power BI, Tableau.</li>
+<li>Operating Systems: Linux, Windows.</li>
+<li>Data Manipulation: SQL, Mango DB, Oracle DB.</li>
+<li>Cloud Platform: Microsoft Azure.</li>
+<li>Programming: Python, Java, C#.</li>
+<li>Certifications: MCD level 1 | Microsoft Azure Associate</li>
+</ul>
+</section>
+
+<section>
+<h2>Education</h2>
+<p>M.Sc. Business Analytics | University of Limerick, Limerick (2:1) | Sep ’22 – Aug ‘23</p>
+<p>B.E. – Electrical | JNTUK, Kakinada (80%) | Kakinada | Jul ’15 – May ‘18</p>
+</section>
+
+<section>
+<h2>Professional Relevant Work Experience</h2>
+
+<article>
+<h3>Apisero- Premier MuleSoft Consulting, India | Feb ’21 – Aug ‘22</h3>
+<p>Data Support Analyst | Hyderabad</p>
+<ul>
+<li>Concurrently undertook 9 applications while supporting a conglomerate pharmaceutical company with revenue of 58.05 billion USD.</li>
+<li>Scheduled jobs, troubleshooted unsuccessful jobs, and monitored jobs.</li>
+<li>Created mapping functions to populate data using fact tables.</li>
+<li>Extracted data from Salesforce application and Oracle database using mapping functions in Informatica.</li>
+<li>Performed monthly patching activities for run-time managers in Any Point platform and Kafka servers.</li>
+<li>Hands-on experience in populating data on Reltio (MDM) and manual insertion for data through Postman.</li>
+<li>Proficiency in SQL data manipulation, data insertion on Oracle database.</li>
+</ul>
+</article>
+
+<article>
+<h3>Infosys Limited, India | Aug ’18 – Jan ‘21</h3>
+<p>Technology Analyst | Hyderabad</p>
+<ul>
+<li>Built KPI review dashboard for Sales team resulting in a 40% performance increase using SQL and PowerBI.</li>
+<li>Collaborated cross-functionally, providing technical support, and delivering data-driven insights for projects, resulting in an 18% improvement in decision-making processes.</li>
+<li>Combined analytics, exploratory skills, and data intuition to generate a specific target list for 12 campaigns with an overall conversion rate of 4.2%.</li>
+<li>Collaborated with cross-functional teams to track and analyze key performance indicators (KPIs) across Sales & Marketing.</li>
+</ul>
+<p>Linux Administrator:</p>
+<ul>
+<li>Duties included system installation, setup, troubleshooting, and performance tracking using Solar Wind Agent and user support.</li>
+<li>Disk Stripping for improving performance.</li>
+<li>Performed daily administrative tasks such as troubleshooting automation.</li>
+<li>Resolved tickets over the ticketing tool Service Now.</li>
+<li>Documented issues and shared with other team members.</li>
+<li>Responded to emergency calls relating to server performance, diagnosis of problems, repairing problems, or calling upon appropriate vendors to resolve the issue.</li>
+<li>Creation of CRF and providing them for approvals at the CAB and TAB meetings.</li>
+</ul>
+</article>
+
+<article>
+<h3>EVERISE CUSTOMER SUPPORT | NOV ’23</h3>
+<p>Working for the US top insurance company and skilled in multiple domains like sales, RX education, mail order pharmacy, billing issues, Medicare, Medicaid.</p>
+<ul>
+<li>Answering queries for customers related to copay and resolving issues related to medication delivery.</li>
+<li>Diverse knowledge in US healthcare and safety.</li>
+</ul>
+</article>
+</section>
+
+<section>
+<h2>Additional Skills</h2>
+<ul>
+<li>Mentorship</li>
+<li>Strategic mindset</li>
+<li>Team player</li>
+<li></li>
+<li>Good listener</li>
+<li>Negotiator</li>
+<li>People’s Management</li>
+</ul>
+</section>
+
+</body>
+</html>
