@@ -158,7 +158,14 @@ input, textarea {
 
 html { font-family: var(--ff-poppins); }
 
-body { background: var(--smoky-black); }
+body {
+  background: url('nagasarvanibavisetty/nagasarvanibavisetty.github.io/images/bg image.jpg') center center no-repeat;
+}
+
+body::-webkit-scrollbar-track {
+  background: var(--vegas-gold);
+}
+
 
 
 
