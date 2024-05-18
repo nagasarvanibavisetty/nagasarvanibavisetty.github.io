@@ -64,8 +64,7 @@
   --teal-blue: hsl(180, 100%, 55%);
   --vegas-gold: hsl(45, 54%, 58%);
   --light-gray: hsl(0, 0%, 84%);
-  --light-gray-70: hsla(0, 0%, 84%, 0.7);
-  --bittersweet-shimmer: hsl(0, 43%, 51%);
+  
 
   /**
    * typography
@@ -469,7 +468,7 @@ main {
 }
 
 .contact-title {
-  color: var(--light-gray-70);
+  color: var(--light-gray);
   font-size: var(--fs-8);
   text-transform: uppercase;
   margin-bottom: 2px;
@@ -494,7 +493,7 @@ main {
 }
 
 .social-item .social-link {
-  color: var(--light-gray-70);
+  color: var(--light-gray);
   font-size: 18px;
 }
 
@@ -533,7 +532,7 @@ main {
 }
 
 .navbar-link {
-  color: var(--light-gray);
+  color: var(--teal-blue);
   font-size: var(--fs-8);
   padding: 20px 7px;
   transition: color var(--transition-1);
@@ -541,7 +540,7 @@ main {
 
 .navbar-link:hover,
 .navbar-link:focus {
-  color: var(--light-gray-70);
+  color: var(--vegas-gold);
 }
 
 .navbar-link.active {
@@ -1233,7 +1232,7 @@ main {
 }
 
 .blog-meta .dot {
-  background: var(--light-gray-70);
+  background: var(--light-gray);
   width: 4px;
   height: 4px;
   border-radius: 4px;
@@ -1862,7 +1861,7 @@ textarea.form-input::-webkit-resizer {
   }
 
   .filter-item button:hover {
-    color: var(--light-gray-70);
+    color: var(--light-gray);
   }
 
   .filter-item button.active {
