@@ -158,7 +158,18 @@ input, textarea {
 
 html { font-family: var(--ff-poppins); }
 
-body::-webkit-scrollbar-track { background: var(--vegas-gold); } 
+body {
+  background: url('./images/bgimage.jpg') center center no-repeat;
+  height: 100%;
+}
+
+body::-webkit-scrollbar-track {
+  background: var(--vegas-gold);
+}
+
+
+
+
 
 
 /*-----------------------------------*\
