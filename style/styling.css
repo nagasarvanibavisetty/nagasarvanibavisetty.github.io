@@ -60,7 +60,7 @@
   --eerie-black-2: hsl(240, 2%, 12%);
   --smoky-black: hsl(0, 0%, 7%);
   --white-1: hsl(0, 0%, 100%);
-  --white-2: hsl(0, 0%, 98%);
+  --white-2: hsl(0, 9%, 80%);
   --teal-blue: hsl(180, 100%, 55%);
   --vegas-gold: hsl(44, 81%, 14%);
   --light-gray: hsl(0, 0%, 84%);
@@ -159,7 +159,7 @@ textarea {
 
 ::selection {
   background: var(--teal-blue);
-  color: var(--smoky-black);
+  color: var(--);
 }
 
 :focus {
@@ -468,7 +468,7 @@ main {
 }
 
 .contact-title {
-  color: var(--smoky-black);
+  color: var(--white-2);
   font-size: var(--fs-8);
   text-transform: uppercase;
   margin-bottom: 2px;
@@ -560,7 +560,7 @@ main {
 }
 
 .about-text {
-  color: var(--smoky-black);
+  color: var(--white-2);
   font-size: var(--fs-6);
   font-weight: var(--fw-300);
   line-height: 1.6;
@@ -928,7 +928,7 @@ main {
 }
 
 .timeline-text {
-  color: var(--smoky-black);
+  color: var(--white-2);
   font-weight: var(--fw-300);
   line-height: 1.6;
 }
