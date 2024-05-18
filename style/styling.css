@@ -159,7 +159,7 @@ input, textarea {
 html { font-family: var(--ff-poppins); }
 
 body {
-  background: url('nagasarvanibavisetty/nagasarvanibavisetty.github.io/images/bg image.jpg') center center no-repeat;
+  background: url('./images/bgimage.jpg') center center no-repeat;
 }
 
 body::-webkit-scrollbar-track {
