@@ -62,7 +62,7 @@
   --white-1: hsl(0, 0%, 100%);
   --white-2: hsl(0, 0%, 98%);
   --teal-blue: hsl(180, 100%, 55%);
-  --vegas-gold: hsl(45, 54%, 58%);
+  --vegas-gold: hsl(44, 81%, 14%);
   --light-gray: hsl(0, 0%, 84%);
   
 
@@ -392,7 +392,7 @@ main {
 
 .info-content .title {
   color: var(--white-1);
-  background: var(--onyx);
+  background: var(--vegas-gold);
   font-size: var(--fs-8);
   font-weight: var(--fw-300);
   width: max-content;
@@ -426,12 +426,12 @@ main {
 
 .info_more-btn:hover,
 .info_more-btn:focus {
-  background: var(--bg-gradient-sky-blue-1);
+  background: var(--vegas-gold);
 }
 
 .info_more-btn:hover::before,
 .info_more-btn:focus::before {
-  background: var(--bg-gradient-yellow-2);
+  background: var(--vegas-gold);
 }
 
 .info_more-btn span {
@@ -499,7 +499,7 @@ main {
 
 
 .social-item .social-link:hover {
-  color: var(--smoky-black);
+  color: var(--vegas-gold);
 }
 
 
