@@ -1775,7 +1775,7 @@ textarea.form-input::-webkit-resizer { display: none; }
 
   body::-webkit-scrollbar { width: 20px; }
 
-  body::-webkit-scrollbar-track { background: var(--smoky-black); }
+  body::-webkit-scrollbar-track { background: var(--vegas-gold); }
 
   body::-webkit-scrollbar-thumb {
     border: 5px solid var(--smoky-black);
