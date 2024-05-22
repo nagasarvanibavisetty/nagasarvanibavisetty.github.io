@@ -560,7 +560,7 @@ main {
 }
 
 .about-text {
-  color: var(--white-2);
+  color: var(--white-1);
   font-size: var(--fs-6);
   font-weight: var(--fw-300);
   line-height: 1.6;
@@ -807,7 +807,7 @@ main {
 }
 
 .modal-content p {
-  color: var(--light-gray);
+  color: var(--white-2);
   font-size: var(--fs-6);
   font-weight: var(--fw-300);
   line-height: 1.6;
@@ -914,7 +914,9 @@ main {
   height: calc(100% + 50px);
   background: var(--jet);
 }
-
+.text-white{
+  color: white;
+}
 .timeline-item::after {
   content: "";
   position: absolute;
@@ -946,6 +948,9 @@ main {
   padding: 20px;
 }
 
+.margin-bottom{
+  margin-bottom: 8px;
+}
 
 .skills-item:not(:last-child) {
   margin-bottom: 15px;
@@ -1595,6 +1600,7 @@ textarea.form-input::-webkit-resizer {
     align-items: flex-start;
     gap: 18px;
     padding: 30px;
+    margin-bottom: 8px;
   }
 
   .service-icon-box {
